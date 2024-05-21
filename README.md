@@ -12,3 +12,11 @@ We have two major goals for this project:
 
 1. Apply the concept of spectrograms to our 2-D images. In the case of this project, the concept of spectrograms allows us to partition our image in order to gain the location information we've lost by moving to frequency domain.
 2. Use frequency space to track and detect our stickers.
+
+
+Here is the [Final Report](<Final Report.ipynb>) of our project.
+
+The folder 'Spectrogram Videos' contains our resulting videos of 2D spectrograms.
+The folder 'Videos_with_moving_stickers' contains the image frames of the videos we created for experimentation.
+The folder 'Testing Algorithms' contains python files to generate the object tracking results.
+The function [view_spectrogram.py](view_spectrogram.py) is used to generate the spectrograms.
